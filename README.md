@@ -16,7 +16,7 @@ My Streamlit app allows us to process both raw text and PDF files to get a summa
 * [x] PyPDF2 `pip install pyPDF2`
 
 # Sample Output
-<img src="https://github.com/TheCleverIdiott/summarizer/blob/main/sample_output.png" width="500" height="600">
+<img src="https://github.com/TheCleverIdiott/summarizer/blob/main/sample_output.png" width="600" height="300">
 
 # Documentations
 
