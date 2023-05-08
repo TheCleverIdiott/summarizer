@@ -11,10 +11,10 @@ The app is built using "txtai" a powerful NLP library. Txtai builds embeddings d
 My Streamlit app allows us to process both raw text and PDF files to get a summary.
 
 ## Live Demo: 
-https://thecleveridiott-stapp-app-utibyo.streamlit.app/
+<a href="https://thecleveridiott-stapp-app-utibyo.streamlit.app/">Click Here</a>
 
 ## Presenatation
-https://www.canva.com/design/DAFiKgHLzyM/Ui2nj-WOYAG8dX70nHstKQ/view
+<a href="https://www.canva.com/design/DAFiKgHLzyM/Ui2nj-WOYAG8dX70nHstKQ/view">Click Here</a>
 
 
 # Pre-requisites
