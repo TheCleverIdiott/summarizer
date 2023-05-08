@@ -13,6 +13,10 @@ My Streamlit app allows us to process both raw text and PDF files to get a summa
 ## Live Demo: 
 https://thecleveridiott-stapp-app-utibyo.streamlit.app/
 
+## Presenatation
+https://www.canva.com/design/DAFiKgHLzyM/Ui2nj-WOYAG8dX70nHstKQ/view
+
+
 # Pre-requisites
 * [x] Any IDE
 * [x] txtai[all] `pip install txtai`
