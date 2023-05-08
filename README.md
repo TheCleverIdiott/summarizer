@@ -10,10 +10,10 @@ The app is built using "txtai" a powerful NLP library. Txtai builds embeddings d
 My Streamlit app allows us to process both raw text and PDF files to get a summary.
 
 # Pre-requisites
-* [] Any IDE
-* [] txtai[all] `pip install txtai`
-* [] streamlit `pip install streamlit`
-* [] PyPDF2 `pip install pyPDF2`
+* [x] Any IDE
+* [x] txtai[all] `pip install txtai`
+* [x] streamlit `pip install streamlit`
+* [x] PyPDF2 `pip install pyPDF2`
 
 # Sample Output
 
