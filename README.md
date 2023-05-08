@@ -1,4 +1,11 @@
-# stapp
+# Abstractive Text Summarization Web-App
 
-n abstractive summarization application using the powerful NLP library called "txtai" and the Python web framework "Streamlit". Abstractive summarization is the process of generating a summary of a text by understanding its meaning and creating a new text that conveys the same information in a shorter form.
-Our Streamlit app allows us to process both raw text and PDF files to get a summary. We'll start by exploring the features of txtai and how it can help us build NLP applications quickly and efficiently. Then, we'll dive into the implementation details of our summarization app, including how to extract the text from a PDF file, how to use txtai to generate a summary, and how to display the results in the Streamlit app.
+Abstractive summarization is the process of generating a summary of a text by understanding its meaning and creating a new text that conveys the same information in a shorter form. Abstractive methods employ more powerful natural language processing techniques to interpret text and generate new summary text, as opposed to selecting the most representative existing excerpts to perform the summarization.
+
+The app is built using "txtai" a powerful NLP library. Txtai builds embeddings databases, which are a union of vector indexes and relational databases. This enables similarity search with SQL. Embeddings databases can stand on their own and/or serve as a powerful knowledge source for large language model (LLM) prompts. 
+<a href="#Documentations>Read More</a>
+
+My Streamlit app allows us to process both raw text and PDF files to get a summary.
+
+# Documentations
+
