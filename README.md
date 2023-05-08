@@ -4,7 +4,7 @@ Abstractive summarization is the process of generating a summary of a text by un
 
 The app is built using "txtai" a powerful NLP library. Txtai builds embeddings databases, which are a union of vector indexes and relational databases. This enables similarity search with SQL. Embeddings databases can stand on their own and/or serve as a powerful knowledge source for large language model (LLM) prompts. 
 
-<a href="#Documentations>Read More</a>
+<a href="#Documentations">Read More</a>
 
 My Streamlit app allows us to process both raw text and PDF files to get a summary.
 
