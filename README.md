@@ -14,6 +14,7 @@ My Streamlit app allows us to process both raw text and PDF files to get a summa
 - <a href="https://thecleveridiott-stapp-app-utibyo.streamlit.app/">Click for Live Demo</a>
 - <a href="https://www.canva.com/design/DAFiKgHLzyM/Ui2nj-WOYAG8dX70nHstKQ/view">Click for Presentation</a>
 - <a href="https://docs.google.com/document/d/e/2PACX-1vTgO9wEUmqSdmXcBcbyKYn4YVzIQCkFs4b70-UOyGovAlIV3uOCdn35srmU-fid2ehFiNssfnLrJ317/pub">Click for Report</a>
+- <a href="#Documentations">Click for Documentation</a>
 
 
 # Pre-requisites
