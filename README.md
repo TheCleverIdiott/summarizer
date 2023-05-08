@@ -16,9 +16,6 @@ My Streamlit app allows us to process both raw text and PDF files to get a summa
 - <a href="https://docs.google.com/document/d/e/2PACX-1vTgO9wEUmqSdmXcBcbyKYn4YVzIQCkFs4b70-UOyGovAlIV3uOCdn35srmU-fid2ehFiNssfnLrJ317/pub">Click for Report</a>
 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTgO9wEUmqSdmXcBcbyKYn4YVzIQCkFs4b70-UOyGovAlIV3uOCdn35srmU-fid2ehFiNssfnLrJ317/pub?embedded=true"></iframe>
-
-
 # Pre-requisites
 * [x] Any IDE
 * [x] txtai[all] `pip install txtai`
