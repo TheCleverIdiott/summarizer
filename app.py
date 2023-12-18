@@ -24,7 +24,6 @@ choice = st.sidebar.selectbox("Select your choice", ["Summarize Text", "Summariz
 
 if choice == "Summarize Text":
     st.subheader("Summarize Text")
-    st.write("Made by Aritra Ghosh (itsaritra.pages.dev)")
     input_text = st.text_area("Enter your text here")
     if input_text is not None:
         if st.button("Summarize Text"):
