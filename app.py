@@ -38,7 +38,6 @@ if choice == "Summarize Text":
 
 elif choice == "Summarize Document":
     st.subheader("Summarize Document")
-    st.write("Made by Aritra Ghosh (itsaritra.pages.dev)")
     input_file = st.file_uploader("Upload your document here", type=['pdf'])
     if input_file is not None:
         if st.button("Summarize Document"):
