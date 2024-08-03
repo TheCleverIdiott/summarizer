@@ -8,6 +8,7 @@ The app is built using "txtai" a powerful NLP library. Txtai builds embeddings d
 
 <br>
 
+
 My Streamlit app allows us to process both raw text and PDF files to get a summary.
 
 ## Resources
